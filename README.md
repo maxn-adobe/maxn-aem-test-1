@@ -1,5 +1,5 @@
-# Your Project's Title...
-Sandbox Project
+# Sandbox Project
+Sandbox Project Description
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
